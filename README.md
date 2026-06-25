@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 AI & Machine Learning
+<img src="assets/banner.svg" alt="AI & Machine Learning" width="100%"/>
 
 ### A curated portfolio of deep learning labs and applied projects — from first principles to production-style pipelines
 
